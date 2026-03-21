@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+  width: 320px;
+  padding: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
+ul {
+  padding-left: 15px;
+}
