@@ -1,16 +1,5 @@
-# Python
+# The Essentials
 __pycache__/
-*.pyc
-
-# Env files
 .env
-
-# Virtual env
 venv/
-.env/
-
-# OS
-.DS_Store
-
-# Node (for extension if added later)
-node_modules/
+.vscode/
