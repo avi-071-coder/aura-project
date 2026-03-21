@@ -1,4 +1,4 @@
-# Aura— Smart Webpage Summarizer
+# Aura: Smart Webpage Summarizer
 
 ## Overview
 
