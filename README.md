@@ -74,24 +74,10 @@ uvicorn main:app --reload
 2. Click on the Aura AI extension icon  
 3. Click "Summarize Page"  
 4. View the generated summary and bullet points  
-5. Click on any bullet point to navigate to the corresponding section of the page  
-
----
-
-## Limitations
-
-
-  
-
-
----
-
-## Environment Configuration
-
-The `.env` file is not included in this repository for security reasons. Any sensitive configuration such as API keys should be stored in this file locally.
-
+5. Click on any bullet point to navigate to the corresponding section of the page
+6. 
 ---
 
 ## Conclusion
 
-Aura AI is a full-stack project that integrates backend development, AI-based text processing, web scraping, and browser extension development. It provides a practical solution for improving how users interact with and understand online content while demonstrating real-world application of modern technologies.
+Aura is a full-stack project that integrates backend development, AI-based text processing, web scraping, and browser extension development. It provides a practical solution for improving how users interact with and understand online content while demonstrating real-world application of modern technologies.
