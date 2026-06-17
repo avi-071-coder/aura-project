@@ -75,9 +75,9 @@ uvicorn main:app --reload
 3. Click "Summarize Page"  
 4. View the generated summary and bullet points  
 5. Click on any bullet point to navigate to the corresponding section of the page
-6. 
+   
 ---
 
 ## Conclusion
 
-Aura is a full-stack project that integrates backend development, AI-based text processing, web scraping, and browser extension development. It provides a practical solution for improving how users interact with and understand online content while demonstrating real-world application of modern technologies.
+Aura provides a practical solution for improving how users interact with and understand online content while demonstrating real-world application of modern technologies.
