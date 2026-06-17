@@ -16,7 +16,7 @@ Aura is built to:
 - Reduce time spent reading lengthy content  
 - Improve information accessibility  
 - Provide structured summaries for faster understanding  
-- Enable direct navigation to important parts of a webpage  
+- Enable direct navigation to important parts of a webpage 
 
 This project demonstrates how AI and web technologies can be combined to improve content consumption efficiency.
 
@@ -82,7 +82,7 @@ uvicorn main:app --reload
 
 - The backend must be running locally for the extension to function  
 - Some websites may not be fully supported due to dynamic content or anti-scraping mechanisms  
-- Summarization quality may vary depending on the structure and clarity of the source content  
+  
 
 
 ---
