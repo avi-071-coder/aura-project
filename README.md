@@ -80,8 +80,7 @@ uvicorn main:app --reload
 
 ## Limitations
 
-- The backend must be running locally for the extension to function  
-- Some websites may not be fully supported due to dynamic content or anti-scraping mechanisms  
+
   
 
 
